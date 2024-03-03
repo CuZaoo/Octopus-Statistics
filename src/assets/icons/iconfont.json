@@ -1,0 +1,23 @@
+{
+  "id": "4431359",
+  "name": "图标的使用",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "599933",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "15559682",
+      "name": "qq",
+      "font_class": "shejiaotubiao-39",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}
